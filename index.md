@@ -9,15 +9,6 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2021/10/21/pedro1.png"
-  navigation:
-  - link: "/"
-    link_text: About
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
 - template: hero-banner-w-image
   block: hero-2
   slug: features
