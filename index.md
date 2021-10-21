@@ -6,9 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/10/21/pedro1.png"
-  navigation:
-  - link: "/"
-    link_text: About
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
