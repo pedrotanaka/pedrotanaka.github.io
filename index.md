@@ -26,7 +26,7 @@ page_sections:
   media_alignment: Right
   headline: Test
   slug: test
-  content: ''
+  content: Test
   media:
     image: ''
     alt_text: ''
