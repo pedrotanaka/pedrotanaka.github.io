@@ -25,7 +25,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Test
-  slug: ''
+  slug: test
   content: ''
   media:
     image: ''
