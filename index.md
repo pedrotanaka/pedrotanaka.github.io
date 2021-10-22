@@ -11,7 +11,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Test
-  slug: test
+  slug: ''
   content: Test
   media:
     image: ''
