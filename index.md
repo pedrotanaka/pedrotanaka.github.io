@@ -12,7 +12,7 @@ page_sections:
   media_alignment: Right
   headline: Hello World
   slug: "/"
-  content: Test
+  content: "<br><br>LinkedIn | Twitter | GitHub"
   media:
     image: ''
     alt_text: ''
