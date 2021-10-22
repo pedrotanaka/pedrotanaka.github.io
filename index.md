@@ -10,8 +10,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Test
-  slug: ''
+  headline: Hello World
+  slug: "/"
   content: Test
   media:
     image: ''
