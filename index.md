@@ -12,7 +12,7 @@ page_sections:
   slug: features
   headline: Pedro Tanaka <br><strong>design blocks</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.<img src="/uploads/2018/06/21/forestry-symbol.svg">
+    content manager.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
