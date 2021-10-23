@@ -12,7 +12,8 @@ page_sections:
   media_alignment: Right
   headline: Hello World
   slug: "/"
-  content: "<br><br>LinkedIn | Twitter | Medium"
+  content: <br><br>LinkedIn | <a href="https://twitter.com/pedtanaka" title="">Twitter</a>
+    | Medium | YouTube
   media:
     image: ''
     alt_text: ''
