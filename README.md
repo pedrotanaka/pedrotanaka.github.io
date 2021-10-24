@@ -1,4 +1,14 @@
-Personal website built with forestry.io.
+Personal website built.
+
+# Stack
+
+## Design
+
+Designed using forestry.io.
+
+## Hosting
+
+GitHub pages.
 
 ---///---
 
