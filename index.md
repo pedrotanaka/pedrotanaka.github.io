@@ -17,7 +17,7 @@ page_sections:
     something cool.<br><br>I have been involved in the design and implementation of
     ad systems that process billions of transactions a day, gaming backends that shatter
     the c10k problem, and TV systems that power the largest operators in the world.
-    Test<br><br><a href="https://www.linkedin.com/in/pedrotanaka/" title="">LinkedIn</a>
+    <br><br><a href="https://www.linkedin.com/in/pedrotanaka/" title="">LinkedIn</a>
     | <a href="https://twitter.com/pedtanaka" title="">Twitter</a> | <a href="https://pedrinhotanaka.medium.com/"
     title="">Medium</a> | <a href="https://www.youtube.com/channel/UCOjjPyIuWD9lBCpCv9nrW-g"
     title="">YouTube</a>
