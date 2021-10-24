@@ -25,4 +25,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Add github-pages plugin.
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
