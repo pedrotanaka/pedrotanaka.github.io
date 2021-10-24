@@ -10,6 +10,10 @@ Designed using forestry.io.
 
 GitHub pages.
 
+## DNS 
+
+Cloudflare.
+
 ---///---
 
 ![uBuild Blocks](uploads/2018/06/21/theme.png)
