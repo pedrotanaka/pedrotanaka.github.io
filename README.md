@@ -1,4 +1,4 @@
-Personal website built.
+Personal website.
 
 # Stack
 
