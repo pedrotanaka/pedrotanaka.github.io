@@ -15,9 +15,7 @@ page_sections:
   content: <span class="visually-hidden">I'm Pedro. I lead organizations. I'm an avid
     climber and crossfitter. When not working, I'm practicing a sport, reading, or
     spending time with my family.</span><br><br><a href="https://www.linkedin.com/in/pedrotanaka/"
-    title="">LinkedIn</a> | <a href="https://twitter.com/pedtanaka" title="">Twitter</a>
-    | <a href="https://pedrinhotanaka.medium.com/" title="">Medium</a> | <a href="https://www.youtube.com/channel/UCOjjPyIuWD9lBCpCv9nrW-g"
-    title="">YouTube</a>
+    title="">LinkedIn</a>
   media:
     image: ''
     alt_text: ''
